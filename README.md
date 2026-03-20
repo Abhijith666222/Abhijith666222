@@ -79,7 +79,7 @@ Sign language detection, braille support, voice navigation, OCR, and maps in a u
 
 `React` `Chrome Extension` `ML` `Accessibility` `OCR`
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Abhijith666222/signbridge)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Abhijith666222/WiT-BeyondBinary)
 
 </td>
 </tr>
