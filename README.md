@@ -86,14 +86,14 @@ Sign language detection, braille support, voice navigation, OCR, and maps in a u
 <tr>
 <td width="50%">
 
-### 🧠 CrowdSure — NTU Deep Learning Week
+### 🧠 CrowdSafe — NTU Deep Learning Week
 **Deep Learning Crowd Intelligence**
 
 Crowd analysis and prediction system built during NTU Deep Learning Week. Leveraging deep learning models for real-world crowd dynamics and safety applications.
 
 `Python` `Deep Learning` `Computer Vision` `PyTorch`
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Abhijith666222/crowdsure)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/AloyBoy-hub/CrowdSafe)
 
 </td>
 <td width="50%">
